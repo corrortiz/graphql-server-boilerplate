@@ -1,0 +1,12 @@
+{
+  "development": {
+    "JWT_SECRET": "poijasdf98435jpgfdpoij3",
+    "MONGODB_URI": "mongodb://corrortiz:calixio2106@ds215502.mlab.com:15502/issste35",
+    "PORT": "3002"
+  },
+  "test": {
+    "JWT_SECRET": "poijasdf98435jpgfdpoij3",
+    "MONGODB_URI": "mongodb://127.0.0.1:27017/seccion35",
+    "PORT": "3002"
+  }
+}
